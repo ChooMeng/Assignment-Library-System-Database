@@ -29,5 +29,5 @@ System Requirements:
 
 ************************************************************************
            COPYRIGHT © Daily Market 2020. All Right Reserved.
-       Web Application is under GNU General Public License v3.0
+     Database Source Code is under GNU General Public License v3.0
 ************************************************************************
