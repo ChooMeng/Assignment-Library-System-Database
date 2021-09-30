@@ -1,3 +1,5 @@
+![llresize](https://user-images.githubusercontent.com/86212287/135414306-18909309-1289-451f-ab4e-967f40533ee0.png)
+
 # Logical Library - Library System Database
 
 Assignment: AACS3013 Database Development and Applications
